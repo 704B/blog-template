@@ -3,7 +3,7 @@ import type { AccentColor, BaseColor } from "./colors";
 // IMPORTANT SET THOSE TWO VARIABLES:
 // NUMBER ONE:
 // if deployed to github pages, set to https://<your-github-username>.github.io/
-export const SITE = "https://flo-bit.dev";
+export const SITE = "https://704B.github.io";
 
 // NUMBER TWO:
 // if repo name is <your-github-username>.github.io set to '/'
@@ -13,7 +13,7 @@ export const BASE = "/blog-template";
 // MORE SETTINGS:
 
 // will be used for the the title and meta tags and in the header (if SITE_NAME is left blank)
-export const SITE_TITLE = "flo-bit's blog template";
+export const SITE_TITLE = "704B's blog template";
 
 // will be used in the meta tags (and for example shown in search results)
 export const SITE_DESCRIPTION = "Welcome to my blog template! Fork it and make it your own.";
